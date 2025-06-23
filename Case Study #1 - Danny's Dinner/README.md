@@ -392,6 +392,8 @@ order by customer_id;
 | A           | 1020                |
 | B           | 320                 |
 
+---
 
+<p>&copy; 2025 Nguyen Tung Duong</p>
 
 
