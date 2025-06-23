@@ -12,7 +12,13 @@
 * 📂 [Dataset](#dataset)
 * 🧙‍♂️ [Case Study Questions](#case-study-questions)
 * 🚀 [Solutions](#solutions)
-  
+  ## 📕 Table Of Contents
+* [Problem Statement](#problem-statement)
+* [Dataset](#dataset)
+* [Case Study Questions](#case-study-questions)
+* [Solutions](#solutions)
+* [Limitations](#limitations)
+
 ---
 
 ## 🛠️ Problem Statement
